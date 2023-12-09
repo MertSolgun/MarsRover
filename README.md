@@ -1,9 +1,15 @@
-<h1>Mars Rover</h1>
+<h1>Mars Rover
+  <a href="https://lucky-profiterole-ba5b17.netlify.app/">Live</a>
+</h1>
 <h1>
   Technologies Used
 </h1>
 <p>
   The project demonstrates the practical implementation of React hooks (useState, useEffect) along with axios for API calls.
+</p>
+
+<p>
+   I will soon add filtering buttons based on camera names.
 </p>
 <ul>
   <li>

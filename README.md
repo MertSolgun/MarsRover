@@ -8,9 +8,6 @@
   The project demonstrates the practical implementation of React hooks (useState, useEffect) along with axios for API calls.
 </p>
 
-<p>
-   I will soon add filtering buttons based on camera names.
-</p>
 <ul>
   <li>
     React.js
@@ -23,5 +20,11 @@
   </li>
 </ul>
 
-<img src="https://github.com/MertSolgun/MarsRover/assets/115940928/b51b7dc1-54ca-489b-add4-680d47d4e87e">    
+<img src="https://github.com/MertSolgun/MarsRover/assets/115940928/f034e341-5af9-4511-abca-4be8278dc939">
+<img src="">
+<img src="https://github.com/MertSolgun/MarsRover/assets/115940928/9387727d-f8db-4e22-9149-e109f3a9f0b8"> 
+
+
+
+
 

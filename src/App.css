@@ -3,7 +3,7 @@
   flex-wrap: wrap;
   gap: 10px;
   justify-content: center;
-  margin: auto;
+  margin: 40px auto;
 }
 .bg h1 {
   text-align: center;
@@ -588,5 +588,57 @@ body {
   }
   to {
     transform: translateY(-2000px);
+  }
+}
+
+.buttonDiv {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+.buttonDiv button {
+  background-color: transparent;
+  color: white;
+  padding: 10px 30px;
+  font-size: 1.2rem;
+}
+.loading {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  font-size: 2rem;
+}
+.selectCamera {
+  display: flex;
+  justify-content: center;
+  margin: 40px auto;
+  font-size: 2rem;
+  flex-direction: column;
+  align-items: center;
+}
+.infoCamera {
+  display: flex;
+  justify-content: center;
+  font-size: 2rem;
+  align-items: center;
+  background-color: transparent;
+  color: white;
+  cursor: pointer;
+  margin: auto;
+}
+
+@media (max-width: 600px) {
+  .selectCamera {
+    font-size: 1.5rem;
+    margin: auto;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+  }
+  .infoCamera {
+    font-size: 1.5rem;
   }
 }

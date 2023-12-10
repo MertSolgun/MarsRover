@@ -21,7 +21,7 @@
 </ul>
 
 <img src="https://github.com/MertSolgun/MarsRover/assets/115940928/f034e341-5af9-4511-abca-4be8278dc939">
-<img src="">
+<img src="https://github.com/MertSolgun/MarsRover/assets/115940928/97b5585a-acd9-4a18-8793-bc078a10ae62">
 <img src="https://github.com/MertSolgun/MarsRover/assets/115940928/9387727d-f8db-4e22-9149-e109f3a9f0b8"> 
 
 
